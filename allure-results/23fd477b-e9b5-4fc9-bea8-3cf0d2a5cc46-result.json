@@ -1,0 +1,61 @@
+{
+    "name": "checkButtonIsDisplayed",
+    "start": 1647609444531,
+    "stop": 1647609446489,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "23fd477b-e9b5-4fc9-bea8-3cf0d2a5cc46",
+    "historyId": "3ea77212c2e6e8cd7c795f7499ff446f",
+    "testCaseId": null,
+    "rerunOf": null,
+    "fullName": "ru.kkuzmichev.simpleappforespresso.ExampleInstrumentedTest.checkButtonIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.ExampleInstrumentedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkButtonIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.ExampleInstrumentedTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(307)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "feature",
+            "value": "ButtonDisplayed"
+        }
+    ],
+    "links": [
+    ]
+}
